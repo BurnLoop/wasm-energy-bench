@@ -1,0 +1,14 @@
+[package]
+name = "benchmarks"
+version = "0.1.0"
+edition = "2024"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1 
+strip = true
+
+[dependencies]
+image = { version = "0.25", default-features = false, features = ["png"] }
+simsearch = "0.2"

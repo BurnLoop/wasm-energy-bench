@@ -1,0 +1,3 @@
+FROM gcr.io/distroless/cc-debian13
+COPY target/release/coldstart /coldstart
+ENTRYPOINT ["/coldstart"]

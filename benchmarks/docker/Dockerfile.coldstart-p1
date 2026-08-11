@@ -1,0 +1,3 @@
+FROM scratch
+COPY target/wasm32-wasip1/release/coldstart.wasm /coldstart.wasm
+ENTRYPOINT ["/coldstart.wasm"]

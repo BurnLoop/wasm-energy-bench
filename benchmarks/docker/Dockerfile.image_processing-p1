@@ -1,0 +1,3 @@
+FROM scratch
+COPY target/wasm32-wasip1/release/image_processing.wasm /image_processing.wasm
+ENTRYPOINT ["/image_processing.wasm"]

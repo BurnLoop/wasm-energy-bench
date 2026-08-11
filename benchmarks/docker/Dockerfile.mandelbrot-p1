@@ -1,0 +1,3 @@
+FROM scratch
+COPY target/wasm32-wasip1/release/mandelbrot.wasm /mandelbrot.wasm
+ENTRYPOINT ["/mandelbrot.wasm"]

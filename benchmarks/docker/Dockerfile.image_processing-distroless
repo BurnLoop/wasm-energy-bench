@@ -1,0 +1,3 @@
+FROM gcr.io/distroless/cc-debian13
+COPY target/release/image_processing /image_processing
+ENTRYPOINT ["/image_processing"]

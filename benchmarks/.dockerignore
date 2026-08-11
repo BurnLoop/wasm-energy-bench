@@ -1,0 +1,9 @@
+*
+!target/wasm32-wasip1/release/*.wasm
+!target/wasm32-wasip2/release/*.wasm
+!target/release/coldstart
+!target/release/mandelbrot
+!target/release/matmul
+!target/release/fileio
+!target/release/image_processing
+!target/release/fuzzysearch

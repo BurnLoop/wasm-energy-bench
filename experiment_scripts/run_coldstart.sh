@@ -1,5 +1,16 @@
 #!/usr/bin/env bash
 #
+# Automation script for coldstart benchmark
+# As this bnechmark is very short lived it is susceptible to noise.
+# So we repeat this same bencmark 3 times (with 500 incovations per configuratoin)
+# The python scripts handle the averaging over the repeats. 
+#
+# For the repeated rounds we alternate the cofigurations (e.g. runc, P2 JIT)
+# so that each configuration is not repeatedly hot or cold across the 3 rounds
+#
+# Run from the experiment_scripts folder:  
+# sudo ./run_coldstart.sh
+#
 # Acknowledgement: I'm new to Bash scripting and it
 # is not thought as part  of the MSc program.
 # I ran into some issues while wiritng the bash scripts

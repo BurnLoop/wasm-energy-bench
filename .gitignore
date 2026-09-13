@@ -25,6 +25,5 @@ rustc-ice-*.txt
 
 *-comp/
 *.tar
-*.txt
 *.wasm
 *.cwasm

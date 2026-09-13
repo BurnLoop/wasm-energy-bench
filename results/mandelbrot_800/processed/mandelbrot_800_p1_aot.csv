@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+mandelbrot_800_p1_aot,11.985993,1.287157,9.312,12.660,19.32

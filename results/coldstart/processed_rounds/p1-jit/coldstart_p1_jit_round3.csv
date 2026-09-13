@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+coldstart_p1_jit_round3,0.771681,0.054820,14.077,18.206,169.26

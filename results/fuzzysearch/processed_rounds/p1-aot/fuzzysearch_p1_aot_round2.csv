@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+fuzzysearch_p1_aot_round2,0.853383,0.059620,14.314,12.256,144.02

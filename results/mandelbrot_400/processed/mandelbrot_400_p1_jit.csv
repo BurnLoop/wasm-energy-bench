@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+mandelbrot_400_p1_jit,3.743379,0.369032,10.144,14.493,56.47

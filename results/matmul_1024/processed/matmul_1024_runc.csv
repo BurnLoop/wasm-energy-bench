@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+matmul_1024_runc,7.893835,0.520234,15.174,12.783,77.06

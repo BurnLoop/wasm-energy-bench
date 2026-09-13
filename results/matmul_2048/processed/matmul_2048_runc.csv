@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+matmul_2048_runc,58.616146,3.882094,15.099,12.429,116.64

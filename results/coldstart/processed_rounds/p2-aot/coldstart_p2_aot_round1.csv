@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+coldstart_p2_aot_round1,0.668490,0.049217,13.582,12.085,154.16

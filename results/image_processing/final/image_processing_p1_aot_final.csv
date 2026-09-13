@@ -1,0 +1,2 @@
+benchmark,rounds,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+image_processing_p1_aot,3,8.536966,0.577707,14.777333,13.685000,620.563333

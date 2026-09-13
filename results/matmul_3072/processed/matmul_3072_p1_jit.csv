@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+matmul_3072_p1_jit,305.166378,20.769092,14.693,12.441,244.30

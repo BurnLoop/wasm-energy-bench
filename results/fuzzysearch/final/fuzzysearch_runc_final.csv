@@ -1,0 +1,2 @@
+benchmark,rounds,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+fuzzysearch_runc,3,0.934526,0.064822,14.417000,12.541667,169.843333

@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+matmul_2048_p2_aot,90.645841,6.102859,14.853,12.518,118.39

@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+matmul_512_p1_aot,2.153949,0.148498,14.505,12.835,147.27

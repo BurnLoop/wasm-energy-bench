@@ -1,0 +1,2 @@
+benchmark,energy_J_per_inv,time_s_per_inv,power_W,cpu_pct,mem_MB
+matmul_1024_p1_jit,11.642478,0.780312,14.920,13.400,87.10
